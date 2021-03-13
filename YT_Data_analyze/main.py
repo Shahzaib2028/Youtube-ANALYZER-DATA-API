@@ -11,7 +11,7 @@ import requests
 from pytube import YouTube
 
 
-api_key = 'AIzaSyBJ8sqN1UV1o7xgUeS5mGrLi7I9mZlYsxo'
+api_key = 'Enter your key here'
 youtube = build('youtube' , 'v3', developerKey = api_key)
 
 window = Tk()
