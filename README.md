@@ -1,4 +1,4 @@
-### Youtube-ANALYZER-API
+# Youtube-ANALYZER-API
 
 for this you have to install following libraries:
 
@@ -15,7 +15,7 @@ After installing these libraries you are ready to run the project.
 ## what you need to change
 
 in line number 14. enter your API key. 
-# api_key = 'Enter your key here'
+### api_key = 'Enter your key here'
 
 get your API key from https://developers.google.com/youtube/v3 
 
